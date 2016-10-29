@@ -1,0 +1,158 @@
+body,h1,h2,h3,h4,h5,h6,p,ul,li{
+	margin:0;
+	padding:0;
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+img{
+	border:0;
+}
+.hover{
+	width: 999px;
+	height: 518px;
+	background: #F7F7F7;
+	/*margin-top: 60px;*/
+	border-right:1px solid #B61D1D;
+	border-bottom:1px solid #D4D6D9;
+	/*margin-left: 210px;*/
+}
+.hover-left{
+	width: 706px;
+	height: 498px;
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+	/*background: #fff999;*/
+}
+.hover-left-top{
+	width: 608px;
+	height: 24px;
+	/*background: #fff666;*/
+}
+.hover-left-top .nav{
+	width: 52px;
+	height: 24px;
+	background: #7c7171;
+	float: left;
+	font-size: 14px;
+	text-align: center;
+	line-height: 24px;
+	color:#fff;
+}
+.hover-left-top .nav-o{
+	width: 23px;
+	height: 24px;
+	background: #5C5251;
+	float: left;
+	font-size: 14px;
+	text-align: center;
+	line-height: 24px;
+	color:#fff;
+}
+.hover-left-top .nav-t{
+	margin-left: 10px;
+}
+.hover-left-top .nav-d{
+	width: 76px;
+}
+.hover-left-top .nav-w{
+	width: 88px;
+}
+.hover-left-bottom{
+	width: 608px;
+	height: 464px;
+	margin-top: 10px;
+	/*background: pink;*/
+}
+.nav-bottomleft{
+	width: 84px;
+	height: 464px;
+	float: left;
+	/*background: #000;*/
+}
+.nav-bottomleft .nav-wenzi{
+	width: 84px;
+	height: 39px;
+	color: #666;
+	line-height: 38px;
+	text-align: right;
+	/*float: right;*/
+	/*background: #000;*/
+}
+.nav-bottomleft .nav-chicken{
+	height: 86px;
+	/*background: red;*/
+}
+.nav-bottomleft .nav-shenghuo{
+	height: 60px;
+}
+
+.nav-bottomleft a{
+	color: #666;
+}
+.nav-bottomright{
+	width: 524px;
+	height: 464px;
+	float: left;
+	/*background: #99ffff;*/
+}
+.nav-words{
+	width: 524px;
+	height: 38px;
+	border-bottom: 1px solid #eee;
+}
+.nav-words span{
+	color:#EEE;
+}
+.nav-words li{
+	float: left;
+}
+.nav-words .words{
+	font-size: 13px;
+	color: #666;
+	line-height: 38px;
+	text-align: left;
+	margin-right:5px;
+	/*background:red;*/
+}
+.nav-words-chu{
+	height:85px;
+}
+.nav-words-chu li{
+	height: 24px;
+}
+.nav-words-life{
+	height:60px;
+}
+.nav-words-life li{
+	height: 24px;
+}
+
+.hover-right{
+	width: 168px;
+	height: 422px;
+	float: right;
+	margin-top: 20px;
+	margin-right: 20px;
+	/*background: #999666;*/
+}
+.hover-right-top{
+	width: 168px;
+	height: 144px;
+}
+.hover-right-top img{
+	float: left;
+	margin-top: 1px;
+	margin-left: 1px;
+}
+.hover-right-bottom{
+	width: 168px;
+	height: 269px;
+	margin-top: 10px;
+}
+.hover-right-bottom img{
+	float: left;
+	margin-top: 1px;
+}
